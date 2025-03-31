@@ -1,5 +1,7 @@
 # coinpayments-amemberpro
 
+> NOTICE: Migrated to [CoinPaymentsNet/plugin-amember-pro](https://github.com/CoinPaymentsNet/plugin-amember-pro).
+
 IMPORTANT NOTE:
 
 This is only for use with: https://alpha.coinpayments.net/
